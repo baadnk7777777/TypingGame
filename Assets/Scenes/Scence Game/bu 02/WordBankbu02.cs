@@ -7,7 +7,7 @@ public class WordBankbu02 : MonoBehaviour
 {
     private List<string> originalWords = new List<string>()
     {
-        "durable","inventory","casually","outdated","facilitate",
+        "considerably","determine","distinct","establish","obligate",
     };
 
     private List<string> workingWords = new List<string>();

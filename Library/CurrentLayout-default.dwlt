@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 83
+  controlID: 110
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 84
+  controlID: 59
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 59
+  controlID: 38
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,7 +255,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -266,13 +266,13 @@ MonoBehaviour:
     height: 678
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
   - {fileID: 12}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Scene2
+    - Assets/Scenes/Scence Game/pu 04
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets/Scenes/Scene2
+  - Assets/Scenes/Scence Game/pu 04
   m_LastFoldersGridSize: 60
   m_LastProjectPath: S:\Users\66825\Desktop\New folder\TypingProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 127}
-    m_SelectedIDs: 1a350000
-    m_LastClickedID: 13594
-    m_ExpandedIDs: 00000000de340000e0340000e2340000e4340000e6340000fc34000000ca9a3b
+    scrollPos: {x: 0, y: 228}
+    m_SelectedIDs: 8e440000
+    m_LastClickedID: 17550
+    m_ExpandedIDs: 000000000a3500000c3500000e350000103500001235000022350000b83c0000663f0000f64100009643000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000de340000e0340000e2340000e4340000e6340000
+    m_ExpandedIDs: 000000000a3500000c3500000e3500001035000012350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3c72ffff5073ffffc274ffffba75ffffae76ffffcc77ffffc079ffff587affff7a7affff8c7affffca7afffff480ffff4082fffff082ffff0a8effff8a9cffffd49efffffa9effff249fffff3a9fffff509fffff629fffffc49fffffa0a0ffffc0a0ffffdaa0ffff8ea1ffffa0a6ffff28a7ffffc6a7ffff40a8ffffe6a9fffff0a9ffff02aaffff74abffff66acffff8eacffff14b4ffff80bfffffc4c0ffffc8c5fffff0d8ffff5ed9ffffc0d9fffff6d9ffffd2f8ffff86f9ffffb6f9ffffb8faffff6afbffff9a350000423a0000a2420000c2420000d6450000f04600007c4700002e4a0000964b0000aa4d000028530000345e0000d4630000026d00007a6e00003c70000018760000e2790000cc7a0000ee7b0000ea7c0000ae7d0000
+      m_SelectedIDs: f2d8ffff
+      m_LastClickedID: -9998
+      m_ExpandedIDs: f8d9ffff20daffffaadfffffa8e0ffff38e4ffffdce8ffffb0e9fffffaedffff18eeffff6aefffffbcf2ffff10f5ffff0af6ffff9ef6ffffe2f8ffff2cf9ffff36f9ffff40f9ffff82faffffb4faffff6afbffff9c400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -704,7 +704,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -756,8 +756,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 21
-    y: 752
-    width: 1179
-    height: 286
+    x: 0
+    y: 751
+    width: 1372
+    height: 288
   m_ViewDataDictionary: {fileID: 0}
