@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 186272946}
   - component: {fileID: 186272945}
   - component: {fileID: 186272944}
+  - component: {fileID: 186272948}
   m_Layer: 5
   m_Name: PlayButton (3)
   m_TagString: Untagged
@@ -216,7 +217,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 186272944}
+      - m_Target: {fileID: 186272948}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -264,6 +265,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 186272942}
   m_CullTransparentMesh: 0
+--- !u!114 &186272948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186272942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec077f02f6fe46c4e84606d3f448c574, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &287593557
 GameObject:
   m_ObjectHideFlags: 0
@@ -277,6 +290,7 @@ GameObject:
   - component: {fileID: 287593561}
   - component: {fileID: 287593560}
   - component: {fileID: 287593559}
+  - component: {fileID: 287593563}
   m_Layer: 5
   m_Name: PlayButton (2)
   m_TagString: Untagged
@@ -359,7 +373,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 287593559}
+      - m_Target: {fileID: 287593563}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -407,6 +421,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 287593557}
   m_CullTransparentMesh: 0
+--- !u!114 &287593563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 287593557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3cddd37f06edd4dbd1818577613fb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &336369283
 GameObject:
   m_ObjectHideFlags: 0
@@ -1216,6 +1242,7 @@ GameObject:
   - component: {fileID: 1532266833}
   - component: {fileID: 1532266832}
   - component: {fileID: 1532266831}
+  - component: {fileID: 1532266835}
   m_Layer: 5
   m_Name: PlayButton
   m_TagString: Untagged
@@ -1298,7 +1325,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1532266831}
+      - m_Target: {fileID: 1532266835}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -1346,6 +1373,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532266829}
   m_CullTransparentMesh: 0
+--- !u!114 &1532266835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532266829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cac7b73bb62c9ef4499e3f5abe5effc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1926050059
 GameObject:
   m_ObjectHideFlags: 0
@@ -1359,6 +1398,7 @@ GameObject:
   - component: {fileID: 1926050063}
   - component: {fileID: 1926050062}
   - component: {fileID: 1926050061}
+  - component: {fileID: 1926050065}
   m_Layer: 5
   m_Name: PlayButton (1)
   m_TagString: Untagged
@@ -1441,7 +1481,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1926050061}
+      - m_Target: {fileID: 1926050065}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -1489,6 +1529,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1926050059}
   m_CullTransparentMesh: 0
+--- !u!114 &1926050065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926050059}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26682e585891c4441a5cfffa349b299a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1998793375
 GameObject:
   m_ObjectHideFlags: 0

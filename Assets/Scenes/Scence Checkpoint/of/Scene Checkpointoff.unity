@@ -822,6 +822,7 @@ GameObject:
   - component: {fileID: 958145717}
   - component: {fileID: 958145716}
   - component: {fileID: 958145720}
+  - component: {fileID: 958145721}
   m_Layer: 5
   m_Name: PlayButton (2)
   m_TagString: Untagged
@@ -904,7 +905,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 958145720}
+      - m_Target: {fileID: 958145721}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -962,6 +963,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4604784d15b438e4d8af516a72b44f90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &958145721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 958145714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa3e5941c2489b84683305eb13ccaabe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1112545110
@@ -1451,6 +1464,7 @@ GameObject:
   - component: {fileID: 1687147273}
   - component: {fileID: 1687147272}
   - component: {fileID: 1687147271}
+  - component: {fileID: 1687147275}
   m_Layer: 5
   m_Name: PlayButton (3)
   m_TagString: Untagged
@@ -1533,7 +1547,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1687147271}
+      - m_Target: {fileID: 1687147275}
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:
@@ -1581,6 +1595,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687147269}
   m_CullTransparentMesh: 0
+--- !u!114 &1687147275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687147269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29796809171939341b7ebd60c756972a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1958272256
 GameObject:
   m_ObjectHideFlags: 0

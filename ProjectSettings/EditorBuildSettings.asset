@@ -62,4 +62,40 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scence Checkpoint/pu/Scene Checkpointpur.unity
     guid: e63f064f3c3708745b24480174098d28
+  - enabled: 1
+    path: Assets/Scenes/Scene3/bu/bu03.unity
+    guid: 6d0fa025f5ea5f643bbd37dcebfd855a
+  - enabled: 1
+    path: Assets/Scenes/Scene3/bu/bu04.unity
+    guid: 7100976334062d14b8a4cd1cbe8b78d5
+  - enabled: 1
+    path: Assets/Scenes/Scene3/of/of03.unity
+    guid: 111fc9975f015ba41a245033239d9dd2
+  - enabled: 1
+    path: Assets/Scenes/Scene3/of/of04.unity
+    guid: 1a73360164b38c74f840bb1d62c80696
+  - enabled: 1
+    path: Assets/Scenes/Scene3/pu/pu03.unity
+    guid: 06988d2fa86128142b5a0a74237ba8c7
+  - enabled: 1
+    path: Assets/Scenes/Scene3/pu/pu04.unity
+    guid: d6a21a60b73d1cd4e89dfd4292989f58
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/bu 03/gamebu03.unity
+    guid: 12aa0d4d9b705a74e854caa43abeeb91
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/bu 04/gamebu 04.unity
+    guid: 53915f77626825348b55ffc0e93280ba
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/office 03/gameof 03.unity
+    guid: aea6e6a271d8e93468942ca0222378c7
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/office 04/gmaeof04.unity
+    guid: 44963b8f0efb32d40b778b56afdaa488
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/pu 03/gamepu 03.unity
+    guid: 134db6fc52a71f34e98cfec301586470
+  - enabled: 1
+    path: Assets/Scenes/Scence Game/pu 04/gamepu04.unity
+    guid: d86e023b66859884cab3aeeddaed8d4e
   m_configObjects: {}

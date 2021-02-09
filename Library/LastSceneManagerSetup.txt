@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Scene3/pu/pu04.unity
+- path: Assets/Scenes/Scence Checkpoint/of/Scene Checkpointoff.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

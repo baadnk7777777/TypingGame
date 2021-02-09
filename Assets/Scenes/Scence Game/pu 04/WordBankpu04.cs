@@ -50,7 +50,7 @@ public class WordBankpu04 : MonoBehaviour
         }
         else if (workingWords.Count == 0)
         {
-            SceneManager.LoadScene(13);
+            SceneManager.LoadScene(24);
 
         }
 
