@@ -9,53 +9,53 @@ public class testcheck : MonoBehaviour
     //busines test
     public void OnButtonTCB1Click()
     {
-        Application.LoadLevel(23);
+        Application.LoadLevel(35);
     }
     public void OnButtonTCB2Click()
     {
-        Application.LoadLevel(29);
+        Application.LoadLevel(41);
     }
     public void OnButtonTCB3Click()
     {
-        Application.LoadLevel(35);
+        Application.LoadLevel(47);
     }
     public void OnButtonTCB4Click()
     {
-        Application.LoadLevel(41);
+        Application.LoadLevel(53);
     }
     //office test
     public void OnButtonTCO1Click()
     {
-        Application.LoadLevel(47);
+        Application.LoadLevel(59);
     }
     public void OnButtonTCO2Click()
     {
-        Application.LoadLevel(53);
+        Application.LoadLevel(65);
     }
     public void OnButtonTCO3Click()
     {
-        Application.LoadLevel(59);
+        Application.LoadLevel(71);
     }
     public void OnButtonTCO4Click()
     {
-        Application.LoadLevel(65);
+        Application.LoadLevel(77);
     }
     //purchasing test
     public void OnButtonTCP1Click()
     {
-        Application.LoadLevel(71);
+        Application.LoadLevel(83);
     }
     public void OnButtonTCP2Click()
     {
-        Application.LoadLevel(77);
+        Application.LoadLevel(89);
     }
     public void OnButtonTCP3Click()
     {
-        Application.LoadLevel(83);
+        Application.LoadLevel(95);
     }
     public void OnButtonTCP4Click()
     {
-        Application.LoadLevel(89);
+        Application.LoadLevel(101);
     }
     // //back
     
@@ -69,22 +69,22 @@ public class testcheck : MonoBehaviour
 
     public void OnButtonlevelbackClick()
     {
-        Application.LoadLevel(19);
+        Application.LoadLevel(31);
     }
 
     //busines mode
     public void OnButtonTCBClick()
     {
-        Application.LoadLevel(20);
+        Application.LoadLevel(32);
     }
     //purchasing mode
     public void OnButtonTCPClick()
     {
-        Application.LoadLevel(22);
+        Application.LoadLevel(34);
     }
     //office mode
     public void OnButtonTCOClick()
     {
-        Application.LoadLevel(21);
+        Application.LoadLevel(33);
     }
 }

@@ -98,4 +98,232 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scence Game/pu 04/gamepu04.unity
     guid: d86e023b66859884cab3aeeddaed8d4e
+  - enabled: 1
+    path: Assets/Scenes/Quiz Mode/Scene Level quiz.unity
+    guid: 810f2cf7c2191fd4383116cecb80d42c
+  - enabled: 1
+    path: Assets/Scenes/Quiz Mode/Qbu/bu.unity
+    guid: 79c52a8f4c9b91c47b9dc981fc401e69
+  - enabled: 1
+    path: Assets/Scenes/Quiz Mode/Qof/of.unity
+    guid: a46dcac558585034aa5a05a9f455ce94
+  - enabled: 1
+    path: Assets/Scenes/Quiz Mode/Qpu/pu.unity
+    guid: ea25b186e23e2174ba79d65a9cb9215c
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/Quiz1-1.unity
+    guid: 25ff84eeb95b7d04eb985a8c38f7fdaa
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/Quiz1-2.unity
+    guid: f4cb7ae9cd5a79d4a8f5152fbdee3e63
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/Quiz1-3.unity
+    guid: 20ba4afedd2632540afe793af8f4bbf1
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/Quiz1-4.unity
+    guid: acaf735467b6825479fd4b7fb87cb8b0
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/Quiz1-5.unity
+    guid: 9c238a93b23ef9249839b392c99cb1bd
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz1/result1.unity
+    guid: 72f20e7b50e33a34c9eb888e634c3660
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/Quiz2-1.unity
+    guid: 5ae309cc158d5e94097fef91f37c51d5
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/Quiz2-2.unity
+    guid: c02134301e1374144968ab51784d85b0
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/Quiz2-3.unity
+    guid: af4e22c15566f8547b0ac3585e620913
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/Quiz2-4.unity
+    guid: ecba8b22b9c15ef47b687adbe7b32073
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/Quiz2-5.unity
+    guid: d5bbc164c01e21e41a98d79ab98e28cd
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz2/result2.unity
+    guid: ab86241b4ab7b1e408f09e43b1a92cce
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/Quiz3-1.unity
+    guid: 8c4244ca2797ff6459b2d61045c9dd74
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/Quiz3-2.unity
+    guid: ec22d63a79618cf479179f941de28291
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/Quiz3-3.unity
+    guid: cbbdc122f2b664d42a1aeabeea2138aa
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/Quiz3-4.unity
+    guid: d2016547dac398341924b1614ad3e768
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/Quiz3-5.unity
+    guid: fbf540faf82ce3e468fe26aa982d120f
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz3/result3.unity
+    guid: 530fe316ca546d649ae7a08f779ff00b
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/Quiz4-1.unity
+    guid: d60ff992403565a4d8d6f8c7e8f0869a
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/Quiz4-2.unity
+    guid: 4a5f331a8933a2a49ad686d3cb5caa67
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/Quiz4-3.unity
+    guid: 57e0fa04c778b6e4589b8c7138490746
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/Quiz4-4.unity
+    guid: 09da8a4bdf5160b4e834138e0989c4ad
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/Quiz4-5.unity
+    guid: d14fae65f1615454293be50799878d7a
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/BUQ1-2/Quiz4/result4.unity
+    guid: e37c9886fa3b43b4cb547a79140c0f01
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/Quiz1-1.unity
+    guid: 82c93e52cac151c45b2e96ab79b65394
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/Quiz1-2.unity
+    guid: 0ba144fa5f735d24fa055e9d913b862d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/Quiz1-3.unity
+    guid: 87ba61f48b7fc4d47849374412d137e5
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/Quiz1-4.unity
+    guid: 4313c3c2c0fec6f4287dc3931deea917
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/Quiz1-5.unity
+    guid: 5c1d79ccf18b11b499ef2c4541f30197
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz1/result1.unity
+    guid: c6a57020cb63b784bb6949ba15f1bf52
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/Quiz2-1.unity
+    guid: e89cf7dbbb4e3484988924db277432cd
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/Quiz2-2.unity
+    guid: cbc3d9cd1ae6f3548b9b594535e1236d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/Quiz2-3.unity
+    guid: fa9b42bdc1fb4eb4b8b946c5f8b8234d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/Quiz2-4.unity
+    guid: 81a5e13a69fa55e48bf9c7adaa696323
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/Quiz2-5.unity
+    guid: da71a3fd3c3cd114b92e9ac72b8805d3
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz2/result2.unity
+    guid: cda0285634051964bb4cf0c6432f43d1
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/Quiz3-1.unity
+    guid: 0f5d00fe9db00744ca28e87b50eaebdf
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/Quiz3-2.unity
+    guid: 4d24e3cd861310e4f8d91746aee31db5
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/Quiz3-3.unity
+    guid: 27e6d986eeb2ba94e8da2936718ae4bf
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/Quiz3-4.unity
+    guid: 156089033a35b5644bbf35cc882209dd
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/Quiz3-5.unity
+    guid: 0f6af189a2afc904ba9b4f01e37871fc
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz3/result3.unity
+    guid: 63b9e604c2009cd46ad6b0b31c389852
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/Quiz4-1.unity
+    guid: 650eae254d8787946b9be95b0475e7d6
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/Quiz4-2.unity
+    guid: 3a62fac9ce70eda4bbb06ab3e79cdedf
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/Quiz4-3.unity
+    guid: 06ea4eff76205724a83ce9dbeee37f84
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/Quiz4-4.unity
+    guid: 392cbc45d083e1b429e27c3540f306ec
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/Quiz4-5.unity
+    guid: 4051d2cfd98718341a7ea982ec11f2a3
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/OFQ1-2/Quiz4/result4.unity
+    guid: e3516641d8f7edd4c8809acbd6750ae0
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/Quiz1-1.unity
+    guid: 1eb815b24c89ab04e9ad6b27f1cc73fb
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/Quiz1-2.unity
+    guid: 89a1e53dbb75a644d84eae7f9506065d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/Quiz1-3.unity
+    guid: fb648a705d6348c4291990c6c4687726
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/Quiz1-4.unity
+    guid: 2b32c161113491f438b64b3f0f28dba9
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/Quiz1-5.unity
+    guid: 935aea381121a7845947161a4ddfc359
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz1/result1.unity
+    guid: f18ee107594478f4db7dc716c9f38f93
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/Quiz2-1.unity
+    guid: f424c58b9b6348049a18e3cb1dae720d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/Quiz2-2.unity
+    guid: 6c780f3d1c047214b84b3b05f2dc44c3
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/Quiz2-3.unity
+    guid: ae66c0b53d986dc4ea11c3375699aaf3
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/Quiz2-4.unity
+    guid: 69ee73c0dbc88b943898583eb2537e01
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/Quiz2-5.unity
+    guid: 33109562cf1bf204cb56e96db9a8cf66
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz2/result2.unity
+    guid: a84a0fceeafb83e47872adc590952c90
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/Quiz3-1.unity
+    guid: 227ae72370cfe264b942529580c805f0
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/Quiz3-2.unity
+    guid: 08c58d7082573c44aa4ea16cf4d79437
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/Quiz3-3.unity
+    guid: 247b448c807a74948b90e15b70adbf0b
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/Quiz3-4.unity
+    guid: f533e35d6cf8ff54fbb94b6dceea1a37
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/Quiz3-5.unity
+    guid: f9d115d52f6ce024db3cd133e618ca66
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz3/result3.unity
+    guid: 577183af508724c4f8c4f63a07c9dcdc
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/Quiz4-1.unity
+    guid: 846763ad39fe40a4c86d78e5983261ce
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/Quiz4-2.unity
+    guid: 16dbe53789c5d9647b12cdc5857a130d
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/Quiz4-3.unity
+    guid: 14aa002c7024d044f838f983294afe6b
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/Quiz4-4.unity
+    guid: 472f0bce391b9904fba379a6ea939920
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/Quiz4-5.unity
+    guid: 51cfda07913a098488e57c9f472d4e98
+  - enabled: 1
+    path: Assets/Scenes/Scenetest/PUQ1-2/Quiz4/result4.unity
+    guid: 22ad1b75141fada4b9e852ebdd95daeb
   m_configObjects: {}
